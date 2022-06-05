@@ -32,21 +32,3 @@ O projeto consiste em replicar a página do PicPay.
 ### Sombra
 
 - box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
-
-## Layout
-
-- [PicPro Inicial](./assets/img/layout.png);
-- [PicPro QR Code](./assets/img/layout-qrcode.png);
-- [PicPro Pix](./assets/img/layout-pix.png);
-- [PicPro Boleto](./assets/img/layout-boleto.png);
-- [PicPro Cobrar](./assets/img/layout-cobrar.png);
-
-## Referências
-
-- [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp);
-- [W3Schools referência CSS](https://www.w3schools.com/cssref/default.asp);
-- [Google Fonts](https://fonts.google.com/);
-- [Coolors](https://coolors.co/palettes/trending);
-- [Paletton](https://paletton.com/);
-- [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp);
-- [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events);
